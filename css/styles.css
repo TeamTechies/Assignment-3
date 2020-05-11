@@ -44,6 +44,17 @@ div {
   
 }
 
+.profile {
+  background-color: white;
+  width: 1000px;
+  height: 2000px;
+  border: 15px solid lightskyblue;
+  padding: 50px;
+  margin: auto;
+  
+  
+}
+
 
 .navBar {
   background-color: #169be8;
