@@ -55,6 +55,17 @@ div {
   
 }
 
+.project {
+  background-color: white;
+  width: 1000px;
+  height: 4000px;
+  border: 15px solid lightskyblue;
+  padding: 50px;
+  margin: auto;
+  font-family: sans-serif;
+  
+  
+}
 
 .navBar {
   background-color: #169be8;
@@ -89,4 +100,8 @@ div {
   position: relative;
   top: -20px;
   left: -30px;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
