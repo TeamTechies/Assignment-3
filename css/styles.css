@@ -55,13 +55,14 @@ div {
   
 }
 
-.project{
+.project {
   background-color: white;
   width: 1000px;
-  height: 5000px;
+  height: 4000px;
   border: 15px solid lightskyblue;
   padding: 50px;
   margin: auto;
+  font-family: sans-serif;
   
   
 }
