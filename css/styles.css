@@ -77,7 +77,21 @@ div {
   
   
 }
+.wireframes{
 
+  background-color: white;
+  width: 1000px;
+  height: 3000px;
+  border: 15px solid lightskyblue;
+  padding: 50px;
+  margin: auto;
+  font-family: sans-serif;
+
+}
+
+.center {
+  text-align: center;
+}
 .navBar {
   background-color: #169be8;
   overflow: hidden;
