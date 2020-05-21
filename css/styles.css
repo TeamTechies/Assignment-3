@@ -9,6 +9,9 @@ ul {
   li {
     float: left;
   }
+body {
+font-family: sans-serif;
+}
   
   li a {
     display: block;
