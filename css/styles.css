@@ -32,7 +32,6 @@ font-family: sans-serif;
 h1 {
     color: white;
     text-align: center;
-    font-family: sans-serif;
 }
 
 
@@ -53,7 +52,7 @@ div {
   border: 15px solid lightskyblue;
   padding: 50px;
   margin: auto;
-  font-family: sans-serif;
+  
   
   
 }
@@ -76,7 +75,7 @@ div {
   border: 15px solid lightskyblue;
   padding: 50px;
   margin: auto;
-  font-family: sans-serif;
+  
   
   
 }
@@ -88,7 +87,7 @@ div {
   border: 15px solid lightskyblue;
   padding: 50px;
   margin: auto;
-  font-family: sans-serif;
+  
 
 }
 
@@ -109,7 +108,7 @@ div {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: sans-serif;
+  
 }
 
 
