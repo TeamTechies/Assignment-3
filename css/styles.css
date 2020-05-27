@@ -143,21 +143,25 @@ table, th, td {
         }
 
         .content-table thead tr {
-            background-color: #87CEFA
-            color: #ffffff;
+            background-color: #87CEFA;
+            color: black;
             text-align: left;
             font-weight: bold;
         }
 
+        .content-table th,
         .content-table td {
             padding: 12px 15px;
         }
         .content-table tbody tr{
-            border-bottom: 1px solid #dddddd
+            border-bottom: 1px solid #dddddd;
         }
         .content-table tbody tr: nth-of-type(even) {
-            background-color: #f3f3f3
+            background-color: #DCDCDC;
         }
         .content-table tbody tr: last-of-type {
-            border-bottom:2px solid #87CEFA
+            border-bottom:2px solid #87CEFA;
+        }
+        .content-table table{
+          border: 2px solid black;
         }
