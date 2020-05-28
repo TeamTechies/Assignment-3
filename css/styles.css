@@ -150,14 +150,14 @@ table, th, td {
         }
 
         .content-table th,
-        .content-table td {
+        .content-table td 
             padding: 12px 15px;
         }
         .content-table tbody tr{
-            border-bottom: 1px solid #dddddd;
+            border-bottom: 1px solid black;
         }
-        .content-table tbody tr: nth-of-type(even) {
-            background-color: #DCDCDC;
+        .content-table tbody tr: nth-of-type(2){
+            background-color: gray
         }
         .content-table tbody tr: last-of-type {
             border-bottom:2px solid #87CEFA;
